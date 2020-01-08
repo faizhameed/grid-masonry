@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/grid-masonry/static/css/main.29e5b734.chunk.css",
+    "main.js": "/grid-masonry/static/js/main.457de3c5.chunk.js",
+    "main.js.map": "/grid-masonry/static/js/main.457de3c5.chunk.js.map",
+    "runtime-main.js": "/grid-masonry/static/js/runtime-main.4753d5e3.js",
+    "runtime-main.js.map": "/grid-masonry/static/js/runtime-main.4753d5e3.js.map",
+    "static/css/2.faecdb03.chunk.css": "/grid-masonry/static/css/2.faecdb03.chunk.css",
+    "static/js/2.3805815e.chunk.js": "/grid-masonry/static/js/2.3805815e.chunk.js",
+    "static/js/2.3805815e.chunk.js.map": "/grid-masonry/static/js/2.3805815e.chunk.js.map",
+    "index.html": "/grid-masonry/index.html",
+    "precache-manifest.a3646ea3b0910a307bf054186f4c4d9e.js": "/grid-masonry/precache-manifest.a3646ea3b0910a307bf054186f4c4d9e.js",
+    "service-worker.js": "/grid-masonry/service-worker.js",
+    "static/css/2.faecdb03.chunk.css.map": "/grid-masonry/static/css/2.faecdb03.chunk.css.map",
+    "static/css/main.29e5b734.chunk.css.map": "/grid-masonry/static/css/main.29e5b734.chunk.css.map",
+    "static/js/2.3805815e.chunk.js.LICENSE": "/grid-masonry/static/js/2.3805815e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4753d5e3.js",
+    "static/css/2.faecdb03.chunk.css",
+    "static/js/2.3805815e.chunk.js",
+    "static/css/main.29e5b734.chunk.css",
+    "static/js/main.457de3c5.chunk.js"
+  ]
+}
